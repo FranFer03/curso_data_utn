@@ -61,5 +61,3 @@ curso_data_utn/
 1. Comienza con los notebooks de `class` para seguir el curso.
 2. Refuerza con ejercicios en `additional`.
 3. Practica temas puntuales en `exercise`.
-
----
