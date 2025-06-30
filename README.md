@@ -1,6 +1,8 @@
 # **Proyecto del Curso de Análisis de Datos**
 
-![Curso de Análisis de Datos](https://docs.temporal.io/assets/images/banner-python-temporal-0d345d125b6892840c54f7e1460c8a5a.png)
+---
+
+![Curso de Análisis de Datos](https://raw.githubusercontent.com/franfuentes/curso_data_utn/main/notebooks/clases/imagenes/analisis_datos_banner.png)
 
 ---
 
@@ -10,9 +12,10 @@ Este repositorio contiene materiales, notebooks y ejercicios prácticos para el 
 
 ## **Estructura de los Notebooks**
 
-- **/notebooks/class**: Notebooks utilizados durante las clases, con teoría y ejemplos guiados.
-- **/notebooks/additional**: Ejercicios adicionales para reforzar y practicar los temas vistos.
-- **/notebooks/exercise**: Notebooks para practicar en profundidad un tema específico.
+- **notebooks/clases**: Notebooks utilizados durante las clases, con teoría y ejemplos guiados.
+- **notebooks/ejercicios**: Ejercicios adicionales para reforzar y practicar los temas vistos.
+- **notebooks/refuerzo**: Notebooks para practicar en profundidad un tema específico.
+- **data/src**: Archivos de datos utilizados en los ejercicios y ejemplos.
 
 ---
 
@@ -29,9 +32,9 @@ curso_data_utn/
 │       └── maiz-serie-1923-2023-anual.csv
 │
 ├── notebooks/
-│   ├── class/
-│   ├── additional/
-│   └── exercise/
+│   ├── clases/
+│   ├── ejercicios/
+│   └── refuerzo/
 │
 ├── README.md
 └── requirements.txt
@@ -58,6 +61,9 @@ curso_data_utn/
 
 ## **Uso Sugerido**
 
-1. Comienza con los notebooks de `class` para seguir el curso.
-2. Refuerza con ejercicios en `additional`.
-3. Practica temas puntuales en `exercise`.
+1. Comienza con los notebooks de `notebooks/clases` para seguir el curso.
+2. Refuerza con ejercicios en `notebooks/ejercicios`.
+3. Practica temas puntuales en `notebooks/refuerzo`.
+4. Utiliza los archivos de `data/src` para los ejemplos y ejercicios que lo requieran.
+
+---
