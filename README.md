@@ -2,7 +2,7 @@
 
 ---
 
-![Curso de Análisis de Datos](https://raw.githubusercontent.com/franfuentes/curso_data_utn/main/notebooks/clases/imagenes/analisis_datos_banner.png)
+![Curso de Análisis de Datos](https://curso-data-science-verdadero-6to.s3.sa-east-1.amazonaws.com/logo-curso.png)
 
 ---
 
