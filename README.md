@@ -2,7 +2,7 @@
 
 ---
 
-![Curso de Análisis de Datos](https://curso-data-science-verdadero-6to.s3.sa-east-1.amazonaws.com/logo-curso.png)
+![Curso de Análisis de Datos](https://curso-data-science-verdadero-6to.s3.sa-east-1.amazonaws.com/logo-curso-edit.png)
 
 ---
 
