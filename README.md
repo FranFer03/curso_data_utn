@@ -1,7 +1,5 @@
 # **Proyecto del Curso de Análisis de Datos**
 
----
-
 ![Curso de Análisis de Datos](https://docs.temporal.io/assets/images/banner-python-temporal-0d345d125b6892840c54f7e1460c8a5a.png)
 
 ---
