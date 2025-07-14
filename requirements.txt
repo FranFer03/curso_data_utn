@@ -3,6 +3,8 @@ pandas>=1.5
 polars>=0.20
 pyspark>=3.4
 numpy>=1.23
+plotly>=5.10
+nbformat>=4.2.0
 
 # Machine Learning
 scipy>=1.10
@@ -15,3 +17,4 @@ seaborn>=0.12
 
 # Deep Learning
 torch>=2.0
+
