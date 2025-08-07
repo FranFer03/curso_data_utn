@@ -1,0 +1,170 @@
+📍 CLASE 9: Bucles y Control de Flujo Avanzado
+   📅 Deadline: Jueves 7 de Agosto, 2025
+   📝 Contenido:
+   - Bucles for y while en profundidad
+   - List comprehensions
+   - Dictionary comprehensions
+   - Control de flujo: break, continue, pass
+   - Manejo básico de excepciones (try/except)
+
+📍 CLASE 10: Regresión Lineal y Logística
+   📅 Deadline: Martes 12 de Agosto, 2025
+   📝 Contenido:
+   - Regresión lineal simple y múltiple
+   - Evaluación de modelos de regresión (RMSE, MAE, R²)
+   - Regresión logística
+   - Métricas de clasificación (accuracy, precision, recall, F1)
+
+CLASE 11: 🏋️ Ejercicios Prácticos - Regresión
+   📅 Deadline: Jueves 14 de Agosto, 2025
+   📝 Contenido:
+   - Implementación práctica de regresión lineal
+   - Ejercicios con métricas de evaluación
+   - Casos prácticos de regresión logística
+   - Interpretación de resultados
+
+📍 CLASE 12: Algoritmos de Clasificación
+   📅 Deadline: Martes 19 de Agosto, 2025
+   - Decision Trees
+   - Random Forest
+   - Support Vector Machines (SVM)
+   - Naive Bayes
+   - k-Nearest Neighbors (kNN)
+
+CLASE 13: 🏋️ Ejercicios Prácticos - Clasificación
+   📅 Deadline: Jueves 21 de Agosto, 2025
+   📝 Contenido:
+   - Implementación de árboles de decisión
+   - Práctica con Random Forest y SVM
+   - Evaluación de modelos de clasificación
+   - Comparación de algoritmos
+
+📍 CLASE 14: Clustering y Análisis No Supervisado
+   📅 Deadline: Martes 26 de Agosto, 2025
+   📝 Contenido:
+   - K-means clustering
+   - Hierarchical clustering
+   - DBSCAN
+   - Análisis de Componentes Principales (PCA)
+   - Evaluación de clustering
+
+CLASE 15: 🏋️ Ejercicios Prácticos - Clustering
+   📅 Deadline: Jueves 28 de Agosto, 2025
+   📝 Contenido:
+   - Implementación de K-means y clustering jerárquico
+   - Práctica con PCA y reducción de dimensionalidad
+   - Evaluación de clusters
+   - Casos prácticos de segmentación
+
+📍 CLASE 16: Validación y Optimización de Modelos
+   📅 Deadline: Martes 2 de Septiembre, 2025
+   📝 Contenido:
+   - Cross-validation
+   - Grid search y hyperparameter tuning
+   - Overfitting y underfitting
+   - Regularización (Ridge, Lasso)
+   - Pipelines en scikit-learn
+
+CLASE 17: 🏋️ Ejercicios Prácticos - Validación de Modelos
+   📅 Deadline: Jueves 4 de Septiembre, 2025
+   📝 Contenido:
+   - Implementación de cross-validation
+   - Práctica con grid search
+   - Ejercicios de regularización
+   - Creación de pipelines
+
+📍 CLASE 18: Ensemble Methods
+   📅 Deadline: Martes 9 de Septiembre, 2025
+   📝 Contenido:
+   - Bagging y Boosting
+   - Random Forest profundo
+   - Gradient Boosting
+   - XGBoost introducción
+   - Voting classifiers
+
+CLASE 19: 🏋️ Ejercicios Prácticos - Ensemble Methods
+   📅 Deadline: Jueves 11 de Septiembre, 2025
+   📝 Contenido:
+   - Implementación de Random Forest avanzado
+   - Práctica con Gradient Boosting y XGBoost
+   - Combinación de modelos (Voting)
+   - Comparación de performance
+
+📍 CLASE 20: Series de Tiempo - Introducción
+   📅 Deadline: Martes 16 de Septiembre, 2025
+   📝 Contenido:
+   - Conceptos básicos de series temporales
+   - Trend, seasonality, cyclical patterns
+   - Moving averages
+   - Autocorrelación
+   - Introducción a ARIMA
+
+CLASE 21: 🏋️ Ejercicios Prácticos - Series de Tiempo
+   📅 Deadline: Jueves 18 de Septiembre, 2025
+   📝 Contenido:
+   - Análisis práctico de series temporales
+   - Implementación de modelos ARIMA básicos
+   - Predicción y forecasting
+   - Evaluación de modelos temporales
+
+📍 CLASE 22: Feature Engineering Avanzado
+   📅 Deadline: Martes 23 de Septiembre, 2025
+   📝 Contenido:
+   - Feature selection techniques
+   - Feature scaling y transformation
+   - Encoding categórico avanzado
+   - Feature creation
+   - Dimensionality reduction
+
+CLASE 23: 🏋️ Ejercicios Prácticos - Feature Engineering
+   📅 Deadline: Jueves 25 de Septiembre, 2025
+   📝 Contenido:
+   - Práctica con selección de features
+   - Implementación de transformaciones
+   - Encoding categórico en casos reales
+   - Creación de features personalizadas
+   
+📍 CLASE 24: Proyecto Final e Integración
+   📅 Deadline: Martes 30 de Septiembre, 2025
+   📝 Contenido:
+   - Desarrollo de proyecto end-to-end
+   - Presentación de resultados
+
+
+🗓️ CRONOGRAMA RESUMIDO:
+=======================
+
+AGOSTO 2025:
+- Jue 7: Bucles y Control de Flujo Avanzado
+- Mar 12: Regresión Lineal y Logística
+- Jue 14: Ejercicios Prácticos - Regresión
+- Mar 19: Algoritmos de Clasificación
+- Jue 21: Ejercicios Prácticos - Clasificación
+- Mar 26: Clustering y Análisis No Supervisado
+- Jue 28: Ejercicios Prácticos - Clustering
+
+SEPTIEMBRE 2025:
+- Mar 2: Validación y Optimización de Modelos
+- Jue 4: Ejercicios Prácticos - Validación de Modelos
+- Mar 9: Ensemble Methods
+- Jue 11: Ejercicios Prácticos - Ensemble Methods
+- Mar 16: Series de Tiempo - Introducción
+- Jue 18: Ejercicios Prácticos - Series de Tiempo
+- Mar 23: Feature Engineering Avanzado
+- Jue 25: Ejercicios Prácticos - Feature Engineering
+- Mar 30: Proyecto Final
+
+📊 MÉTRICAS DEL CURSO:
+=====================
+- Total de clases adicionales necesarias: 15 clases
+- Clases teóricas: 8 clases
+- Clases prácticas: 7 clases
+- Duración total adicional: 22.5 horas
+- Fecha de inicio: 7 de Agosto, 2025
+- Fecha de finalización: 30 de Septiembre, 2025
+- Total del curso completo: 23 clases (34.5 horas)
+
+🎯 ESTRUCTURA SEMANAL:
+=====================
+📚 **Martes**: Clase teórica (nuevo contenido)
+🔬 **Jueves**: Clase práctica/ejercicios (refuerzo del tema anterior)
