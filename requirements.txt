@@ -8,3 +8,4 @@ matplotlib>=3.7
 seaborn>=0.12
 plotly >=5.10
 streamlit>=1.0
+joblib>=1.0
