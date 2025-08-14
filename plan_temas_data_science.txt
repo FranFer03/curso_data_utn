@@ -1,35 +1,10 @@
-📍 CLASE 9: Bucles y Control de Flujo Avanzado
-   📅 Deadline: Jueves 7 de Agosto, 2025
-   📝 Contenido:
-   - Bucles for y while en profundidad
-   - List comprehensions
-   - Dictionary comprehensions
-   - Control de flujo: break, continue, pass
-   - Manejo básico de excepciones (try/except)
-
-📍 CLASE 10: Regresión Lineal y Logística
-   📅 Deadline: Martes 12 de Agosto, 2025
-   📝 Contenido:
-   - Regresión lineal simple y múltiple
-   - Evaluación de modelos de regresión (RMSE, MAE, R²)
-   - Regresión logística
-   - Métricas de clasificación (accuracy, precision, recall, F1)
-
-CLASE 11: 🏋️ Ejercicios Prácticos - Regresión
-   📅 Deadline: Jueves 14 de Agosto, 2025
-   📝 Contenido:
-   - Implementación práctica de regresión lineal
-   - Ejercicios con métricas de evaluación
-   - Casos prácticos de regresión logística
-   - Interpretación de resultados
-
 📍 CLASE 12: Algoritmos de Clasificación
    📅 Deadline: Martes 19 de Agosto, 2025
    - Decision Trees
    - Random Forest
-   - Support Vector Machines (SVM)
-   - Naive Bayes
-   - k-Nearest Neighbors (kNN)
+   - Support Vector Machines (SVM) # Poco y nada
+   - Naive Bayes # Ni idea
+   - k-Nearest Neighbors (kNN)x
 
 CLASE 13: 🏋️ Ejercicios Prácticos - Clasificación
    📅 Deadline: Jueves 21 de Agosto, 2025
